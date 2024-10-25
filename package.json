@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=20.6.0"
+  },
   "name": "authapp",
   "version": "1.0.0",
   "main": "server.js",
